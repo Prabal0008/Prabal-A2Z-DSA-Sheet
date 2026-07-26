@@ -1,4 +1,6 @@
 import java.util.Scanner;
+/*Note
+Basic   greater%smaller-> (one is zero then other is GCD)*/
 public class GCDorHCF {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
