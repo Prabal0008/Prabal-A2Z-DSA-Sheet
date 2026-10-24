@@ -1,0 +1,167 @@
+[33mcommit bff70afbf7d90a304ea4f6c471f1d1c9678c7061[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Prabal <prabalgade1@gmail.com>
+Date:   Sat Oct 24 22:38:37 2026 +0530
+
+    Basic of String
+
+[33mcommit 1e14d841fa10f781c2ca69a09b51fc4e4f26fef3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Prabal <prabalgade1@gmail.com>
+Date:   Sat Oct 24 20:33:34 2026 +0530
+
+    Basic Arrays
+
+[33mcommit c56638b89471f956992b96a1cf505eeae577d764[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Fri Aug 14 00:12:24 2026 +0530
+
+    Mege Sort
+
+[33mcommit 337118553cf459ad1b6ddfaafda57694cc468b2a[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Mon Aug 10 23:43:59 2026 +0530
+
+    Bubble sort
+
+[33mcommit 1db24a67e05330b17b50006b8a46f8fa17248166[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Wed Aug 5 23:57:32 2026 +0530
+
+    Basic Selection Sort
+
+[33mcommit 8e0bc15b4371ecca0af4e36856809f52a4a476e0[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Tue Aug 4 23:40:06 2026 +0530
+
+    ArrayList Basic
+
+[33mcommit d134d49d9a481c39ccbce87d51745ad87f91a907[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sat Aug 1 20:08:51 2026 +0530
+
+    Basic Hashing file done as Prabal Style
+
+[33mcommit 0f70fb8ff9c603dd7b40fd3a5992a6299b32a415[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Tue Jul 28 23:51:55 2026 +0530
+
+    Fibonacci series
+
+[33mcommit 49403e3edc464e4d307fb1d61c61234e34d8fc62[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Tue Jul 28 23:29:45 2026 +0530
+
+    Added a program to check palindrome or not
+
+[33mcommit 074a1dba8ecb95696956efeb78b74743002581c6[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Tue Jul 28 22:12:33 2026 +0530
+
+    Added a reverse of array program
+
+[33mcommit b1d8af14f0d985605b9a7414e58fcc1134936e27[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Tue Jul 28 20:06:17 2026 +0530
+
+    Added Factorial program
+
+[33mcommit 3234a8b34b72e53130dcf81a10fe92814aaa43fb[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Mon Jul 27 23:48:26 2026 +0530
+
+    Added a program to return sum of number using functions
+
+[33mcommit 0e4086dba943c07116708a3c8de9099adf09565f[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Mon Jul 27 23:38:37 2026 +0530
+
+    added aprogram to add the sum of number
+
+[33mcommit 9933bb915676b0d82dbeabedb3bfd7eebe007a4d[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Mon Jul 27 23:20:46 2026 +0530
+
+    added the program to print the number in reverse using backtracking
+
+[33mcommit 17e9af166ac2d541592346d8cc2188877d41bdb7[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Mon Jul 27 23:03:05 2026 +0530
+
+    Added a program to print the number from 1 to N using Backtrack
+
+[33mcommit 6b80ba0ebe772bf0ce512afa08c5f6d5a8692190[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Mon Jul 27 22:46:57 2026 +0530
+
+    Added a program to print number N to 1 in reverser
+
+[33mcommit beeae21dcd3c5e072a675a4732dd913b21b3bee5[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Mon Jul 27 22:41:17 2026 +0530
+
+    Program to disply number linearly
+
+[33mcommit a6d208e921985558955f7350de6612ace3c05a9c[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Mon Jul 27 22:34:46 2026 +0530
+
+    Added a program related to printing name n time using recursion
+
+[33mcommit e9bf14835b4099444a342f53d3ece388a0c5f4b0[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sun Jul 26 18:43:30 2026 +0530
+
+    Added the GCD Code
+
+[33mcommit 9d383ab626b502f776f927b232ad5bbbee8d680f[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sun Jul 26 18:41:42 2026 +0530
+
+    Added the GCD Code
+
+[33mcommit edb55ece16220e513a75bacce35100be3f4b2b5d[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sun Jul 26 18:06:50 2026 +0530
+
+    Added a prime numbers
+
+[33mcommit 4175757a4916307f2cf846907daa02a0e64c6174[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sun Jul 26 17:44:16 2026 +0530
+
+    Added print All divisors file with less time complexity
+
+[33mcommit accc24adfd31f94bfbff167081f89dbd2578b342[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sun Jul 26 17:33:58 2026 +0530
+
+    added the Print All Divisor method 1 file
+
+[33mcommit 8104da1098a497cf33c3d2458257b931b2948beb[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sun Jul 26 17:04:01 2026 +0530
+
+    Added Armstrong Number
+
+[33mcommit 7649c86c80b78301831bd025b50fc9203e393f16[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sun Jul 26 16:55:28 2026 +0530
+
+    Added a palindrome file
+
+[33mcommit 7c9f6505cf1b34a4dca38779ac9f542cc1134ba5[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sun Jul 26 16:42:33 2026 +0530
+
+    Reversal of a number
+
+[33mcommit 0a570ae2f70b2fa83407b4762d9ccba195ec23de[m
+Author: Prabal Gade <prabalgade1@gmail.com>
+Date:   Sun Jul 26 14:04:30 2026 +0530
+
+    Added the Counting of Digit program
+
+[33mcommit 42bba91e62b709f731609c0858860d4b8bc6a748[m
+Author: Prabal0008 <132976732+Prabal0008@users.noreply.github.com>
+Date:   Sun Jul 26 12:05:41 2026 +0530
+
+    Initial commit
